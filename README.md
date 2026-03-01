@@ -43,6 +43,11 @@
 
 <h3 align="center">📈 GitHub Stats</h3>
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lukaarakic/lukaarakic/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lukaarakic/lukaarakic/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lukaarakic/lukaarakic/output/pacman-contribution-graph.svg">
+</picture>
 </div>
 
 <h3 align="center">📬 Connect with Me</h3>
