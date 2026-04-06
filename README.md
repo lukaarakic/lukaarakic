@@ -24,11 +24,11 @@
 
 <ul>
   <li>
-    <strong><a href="https://github.com/lukaarakic/MechanicAI">MechanicAI</a></strong><br>
+    <strong><a href="https://github.com/lukaarakic/mechanicai-frontend">MechanicAI</a></strong><br>
   </li>
   → AI-driven vehicle diagnostics platform<br>
   → Integrated Paddle for global billing and designed complex AI model orchestration for accurate vehicle analysis<br>
-  → <strong>Tech:</strong> Remix, Tailwind, GPT-4o API
+  → 4-step diagnostic pipeline
 </ul>
 
 
